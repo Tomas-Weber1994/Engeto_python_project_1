@@ -23,3 +23,4 @@ Pro vybraný text spočítá následující statistiky:
 - počet slov psaných malými písmeny
 - počet čísel (ne cifer)
 - sumu všech čísel (ne cifer) v textu
+- program také vypíše četnosti různých délek slov v textu
